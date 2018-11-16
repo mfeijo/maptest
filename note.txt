@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E201-32CB
+
+ Directory of C:\Users\mauri\code\testmap
+
+11/16/2018  12:43 PM    <DIR>          .
+11/16/2018  12:43 PM    <DIR>          ..
+11/16/2018  12:43 PM                 0 note.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  76,280,180,736 bytes free
